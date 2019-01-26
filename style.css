@@ -1,0 +1,50 @@
+body{
+
+	text-align:center;
+	font-family: 'Bellefair',serif;
+	background-color:#f4e4d7;
+}
+
+
+div p {
+
+font-style: italic;
+
+}
+
+nav ul li {
+
+display: inline;
+border: 1px solid grey;
+padding: 10px 0px;
+margin: 0px 10px;
+
+}
+
+#pic1{
+
+	width: 700px;
+	height: 400px;
+}
+
+#pic2{
+
+width: 700px;
+height: 400px;
+
+}
+
+#about{
+
+border: 1px solid grey;
+padding: 0px 0px;
+margin:0px 0px;
+
+}
+
+#projects{
+border: 1px solid grey;
+padding: 0px 0px;
+margin:0px 0px;
+
+}

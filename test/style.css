@@ -1,0 +1,25 @@
+body{
+
+	text-align: center;
+	font-family: 'Bellafair', serif;
+	color:blue;
+	background-color:#f4e4d7;
+
+}
+
+#contacts{
+
+	color: #ff0000;
+	text-transform:uppercase;
+
+}
+
+nav ol li {
+
+	font-style: italic;
+	display: inline;
+	border: 1px solid grey;
+	padding: 10px 18px 5px 3px;
+	margin: 0 10px;
+
+}
